@@ -1,4 +1,6 @@
 # Hangman
+![GitHub top language](https://img.shields.io/github/languages/top/herrerovir/hangman-game)
+
 
 Hangman is a classic word-guessing game where players must guess a secret word one letter at a time. 
 
