@@ -111,7 +111,7 @@ def hangman(secret_word):
     print("- If you guess a vowel wrong: you lose two chances to guess it")
     print("- If you guess a consonant wrong: you only lose a chance to guess it")
     print("- You are given 3 warnings")
-    print("- If you type a non alphabetical charater or a repeated letter, you get a warning")
+    print("- If you type a non alphabetical character or a repeated letter, you get a warning")
     print("- When you run out of warnings, you lose a chance to guess the secret word")
     print("- The game ends either when you guess the secret word correctly or when you run out of chances to guess it")
     print("----------")
