@@ -1,6 +1,5 @@
 # Hangman
-![GitHub top language](https://img.shields.io/github/languages/top/herrerovir/hangman-game)
-
+![GitHub top language](https://img.shields.io/github/languages/top/herrerovir/hangman-game) ![GitHub License](https://img.shields.io/github/license/herrerovir/hangman-game)
 
 Hangman is a classic word-guessing game where players must guess a secret word one letter at a time. 
 
@@ -40,3 +39,7 @@ Libraries used: random, pathlib
 	When you run out of warnings, you lose a chance to guess a letter
 
 * Keep guessing letters until you correctly guess the secret word or you run out of chances to guess it
+
+## License:
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE)  file for details
